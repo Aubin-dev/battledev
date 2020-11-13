@@ -4,3 +4,9 @@ git commit -m "Commit desc"
 git branch -M main
 git remote add origin https://github.com/Clashoux/battledev.git
 git push -u origin main
+
+
+Pour push : 
+git commit -a
+Mise du nom du commit dans le fichier
+git push -u origin main
